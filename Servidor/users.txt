@@ -1,0 +1,7 @@
+a.a.2.2.0
+b.b.1.0.0
+jogador.12.1.0.0
+jogador2.12.2.4.2
+jogador3.12.2.4.2
+jogador4.12.3.6.0
+jogador5.12.3.6.0
